@@ -1,5 +1,4 @@
 //Samuel Cruz
-// 12/18/2020
 //final test cis-265
 #include <iostream>
 #include <iomanip>
